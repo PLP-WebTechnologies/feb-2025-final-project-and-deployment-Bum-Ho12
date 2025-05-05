@@ -1,5 +1,9 @@
 # Final Project and Deployment
 
+Experience the live version of the Tech-Blog here:
+👉 [https://tech-blog-bumho.netlify.app/](https://tech-blog-bumho.netlify.app/)
+
+
 ## Objectives
 Build a fully functional web application.
 Apply HTML, CSS, and JavaScript concepts learned.
